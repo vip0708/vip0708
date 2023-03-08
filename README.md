@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vip0708&label=Profile%20views&color=0e75b6&style=flat" alt="vip0708" /> </p>
 
-- 🎟 I do develop/design website [Health & Happy soultions](https://healthyandhappysolutions.com/)
-
-- 🌱 I’m currently learning **Python**
-
-- 🤖 I do develop BOT **Discord/Telegram/WhatsApp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
